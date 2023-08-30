@@ -1,6 +1,7 @@
 # Custom paths
 data/output/
 experiment/output/
+experiment/catboost_info/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
